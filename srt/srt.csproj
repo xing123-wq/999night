@@ -50,6 +50,7 @@
     <None Include="CHS_20200821-220742862.[SplitIt].srt" />
     <None Include="CHS_20200822-225000109.[SplitIt].srt" />
     <None Include="CHS_20200823-230053211.[SplitIt].srt" />
+    <None Include="CHS_20200901-230534721.[SplitIt].srt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
