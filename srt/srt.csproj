@@ -58,6 +58,13 @@
     <None Include="CHS_20200913-222224901.[SplitIt].srt" />
     <None Include="CHS_20200913-223327744.[SplitIt].srt" />
     <None Include="CHS_20200913-224905927.[SplitIt].srt" />
+    <None Include="CHS_20200915-130331328.[SplitIt].srt" />
+    <None Include="CHS_20200915-131335705.[SplitIt].srt" />
+    <None Include="CHS_20200915-132826704.[SplitIt].srt" />
+    <None Include="CHS_20200916-213652387.[SplitIt].srt" />
+    <None Include="CHS_20200916-223051654.[SplitIt].srt" />
+    <None Include="CHS_20200916-224217247.[SplitIt].srt" />
+    <None Include="CHS_20200916-225006478.[SplitIt].srt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
