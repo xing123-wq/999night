@@ -67,6 +67,7 @@
     <None Include="CHS_20200916-224217247.[SplitIt].srt" />
     <None Include="CHS_20200916-225006478.[SplitIt].srt" />
     <None Include="CHS_3-从事和编程相关工作的同学.[SplitIt].srt" />
+    <None Include="CHS_4-想不想找一个程序员做男朋友.[SplitIt].srt" />
     <None Include="CHS_新人加入.[SplitIt].srt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
